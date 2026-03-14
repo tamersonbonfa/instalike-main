@@ -1,3 +1,24 @@
+## 📸 Sobre o Instalike (Main)
+
+Este repositório contém a aplicação **Instalike**, um projeto completo de rede social desenvolvido para praticar o desenvolvimento de aplicações modernas e integradas. O objetivo principal é permitir que usuários subam suas fotos, visualizem um feed dinâmico e utilizem o poder da Inteligência Artificial para descrever suas postagens.
+
+### 🚀 Funcionalidades Principais
+
+* **Feed Dinâmico:** Visualização de postagens com imagens e legendas em tempo real.
+* **Upload Inteligente:** Processamento de imagens via backend com armazenamento organizado.
+* **Legendas Automáticas (IA):** Integração com o Google Gemini para sugerir textos baseados no conteúdo visual da foto.
+* **Persistência de Dados:** Todos os posts e metadados são salvos de forma segura em um cluster MongoDB Atlas.
+
+### 🧪 Tecnologias de Destaque
+
+* **Frontend:** HTML, CSS e JavaScript (integrados ao ecossistema Node).
+* **Backend:** Node.js e Express.
+* **IA:** Google Gemini API.
+* **Banco de Dados:** MongoDB (NoSQL).
+
+---
+*Este repositório representa a base principal de funcionalidades do projeto Instalike.*
+
 # Alura - Imersão back-end
 
 Este é o repositório do front-end do projeto.
